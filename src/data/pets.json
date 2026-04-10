@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "nombre": "Luna",
+    "tipo": "perro",
+    "raza": "Labrador Retriever",
+    "edad": "2 años",
+    "ubicacion": "Madrid",
+    "descripcion": "Luna es una perra juguetona y cariñosa que adora los paseos por el parque y jugar con niños.",
+    "imagen": "https://placedog.net/400/300?id=1"
+  },
+  {
+    "id": 2,
+    "nombre": "Milo",
+    "tipo": "gato",
+    "raza": "Siamés",
+    "edad": "1 año",
+    "ubicacion": "Barcelona",
+    "descripcion": "Milo es un gato curioso y tranquilo, ideal para un hogar sereno. Le encanta dormir al sol.",
+    "imagen": "https://placekitten.com/400/300"
+  },
+  {
+    "id": 3,
+    "nombre": "Rocky",
+    "tipo": "perro",
+    "raza": "Pastor Alemán",
+    "edad": "3 años",
+    "ubicacion": "Valencia",
+    "descripcion": "Rocky es leal y protector. Perfecto para familias activas que disfrutan del aire libre.",
+    "imagen": "https://placedog.net/400/300?id=3"
+  },
+  {
+    "id": 4,
+    "nombre": "Nala",
+    "tipo": "gato",
+    "raza": "Persa",
+    "edad": "4 años",
+    "ubicacion": "Sevilla",
+    "descripcion": "Nala es una gata elegante y tranquila. Disfruta de las caricias y de los espacios cálidos.",
+    "imagen": "https://placekitten.com/401/300"
+  },
+  {
+    "id": 5,
+    "nombre": "Max",
+    "tipo": "perro",
+    "raza": "Golden Retriever",
+    "edad": "1 año",
+    "ubicacion": "Bilbao",
+    "descripcion": "Max es un cachorro enérgico y amigable. Se lleva bien con otros perros y le encanta nadar.",
+    "imagen": "https://placedog.net/400/300?id=5"
+  },
+  {
+    "id": 6,
+    "nombre": "Cleo",
+    "tipo": "gato",
+    "raza": "Bengalí",
+    "edad": "2 años",
+    "ubicacion": "Málaga",
+    "descripcion": "Cleo es una gata activa y juguetona con un pelaje espectacular. Necesita espacio para explorar.",
+    "imagen": "https://placekitten.com/402/300"
+  },
+  {
+    "id": 7,
+    "nombre": "Toby",
+    "tipo": "perro",
+    "raza": "Bulldog Francés",
+    "edad": "5 años",
+    "ubicacion": "Zaragoza",
+    "descripcion": "Toby es un perro tranquilo y cariñoso. Ideal para apartamentos y personas mayores.",
+    "imagen": "https://placedog.net/400/300?id=7"
+  },
+  {
+    "id": 8,
+    "nombre": "Simba",
+    "tipo": "gato",
+    "raza": "Maine Coon",
+    "edad": "3 años",
+    "ubicacion": "Granada",
+    "descripcion": "Simba es un gato grande y majestuoso. Muy sociable y le gusta seguir a su dueño por la casa.",
+    "imagen": "https://placekitten.com/403/300"
+  },
+  {
+    "id": 9,
+    "nombre": "Canela",
+    "tipo": "perro",
+    "raza": "Beagle",
+    "edad": "6 meses",
+    "ubicacion": "Murcia",
+    "descripcion": "Canela es una cachorrita llena de energía con un olfato increíble. Perfecta para familias.",
+    "imagen": "https://placedog.net/400/300?id=9"
+  },
+  {
+    "id": 10,
+    "nombre": "Michi",
+    "tipo": "gato",
+    "raza": "Europeo Común",
+    "edad": "8 meses",
+    "ubicacion": "Alicante",
+    "descripcion": "Michi es un gatito juguetón y cariñoso. Se adapta fácilmente a cualquier hogar.",
+    "imagen": "https://placekitten.com/404/300"
+  }
+]
